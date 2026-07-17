@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+opencv-python-headless
+mediapipe
+numpy
+pillow
+
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+
+scipy
+scikit-image
+pydantic>=2
+typing_extensions
